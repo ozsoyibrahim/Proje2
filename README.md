@@ -1,2 +1,1 @@
-# aralik
 # Proje2
